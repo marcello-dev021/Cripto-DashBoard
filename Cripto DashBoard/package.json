@@ -1,20 +1,29 @@
 {
-  "name": "projetos",
+  "name": "projetos-fullstack",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repositório com projetos práticos de desenvolvimento Full Stack utilizando JavaScript, Node.js, HTML e CSS.",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Sem testes configurados ainda\""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcello-dev021/Projetos.git"
+    "url": "https://github.com/marcello-dev021/Projetos.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "fullstack",
+    "html",
+    "css",
+    "backend",
+    "frontend"
+  ],
+  "author": "Marcello Anthony",
   "license": "ISC",
-  
   "bugs": {
     "url": "https://github.com/marcello-dev021/Projetos/issues"
   },
